@@ -73,6 +73,50 @@
             border-radius: 4px;
             font-weight: 500;
         }
+        
+        .weather-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+        
+        .weather-day {
+            background-color: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        
+        .weather-day h3 {
+            margin: 0 0 10px 0;
+            font-size: 14px;
+            color: #34495e;
+        }
+        
+        .weather-icon {
+            font-size: 32px;
+            margin: 10px 0;
+        }
+        
+        .weather-temp {
+            font-size: 18px;
+            font-weight: 600;
+            color: #2c3e50;
+            margin: 10px 0;
+        }
+        
+        .weather-desc {
+            font-size: 13px;
+            color: #7f8c8d;
+        }
+        
+        .weather-loading {
+            text-align: center;
+            color: #7f8c8d;
+            padding: 20px;
+        }
     </style>
     <script>
         async function loadRegistrations() {
@@ -127,6 +171,67 @@
         
         // Load registrations when page loads
         window.addEventListener('load', loadRegistrations);
+        
+        // Weather icons mapping
+        const weatherIcons = {
+            0: '☀️', 1: '🌤️', 2: '⛅', 3: '☁️',
+            45: '🌫️', 48: '🌫️',
+            51: '🌧️', 53: '🌧️', 55: '🌧️',
+            61: '🌧️', 63: '⛈️', 65: '⛈️',
+            71: '❄️', 73: '❄️', 75: '❄️',
+            80: '🌧️', 81: '⛈️', 82: '⛈️',
+            85: '❄️', 86: '❄️'
+        };
+        
+        const weatherDescriptions = {
+            0: 'Selkeä', 1: 'Lähinnä selkeä', 2: 'Osittain pilvinen', 3: 'Pilvinen',
+            45: 'Sumua', 48: 'Kuuraa',
+            51: 'Heikkoa satetta', 53: 'Kohtalaista satetta', 55: 'Voimakasta satetta',
+            61: 'Heikkoa vesisadetta', 63: 'Kohtalaista vesisadetta', 65: 'Voimakasta vesisadetta',
+            71: 'Heikkoa lumisadetta', 73: 'Kohtalaista lumisadetta', 75: 'Voimakasta lumisadetta',
+            80: 'Heikkoja sadekuuroja', 81: 'Kohtalaisia sadekuuroja', 82: 'Voimakkaita sadekuuroja',
+            85: 'Heikkoja lumikuuroja', 86: 'Voimakkaita lumikuuroja'
+        };
+        
+        async function loadWeather() {
+            try {
+                // Kotka/Kymi Airport coordinates: 60.3847°N, 25.1640°E
+                const response = await fetch(
+                    'https://api.open-meteo.com/v1/forecast?latitude=60.3847&longitude=25.1640&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=Europe/Helsinki'
+                );
+                const data = await response.json();
+                const daily = data.daily;
+                
+                const weatherDiv = document.getElementById('weather');
+                let html = '';
+                
+                for (let i = 0; i < Math.min(5, daily.time.length); i++) {
+                    const date = new Date(daily.time[i]);
+                    const dayName = date.toLocaleDateString('fi-FI', { weekday: 'short' });
+                    const dateStr = date.toLocaleDateString('fi-FI', { month: 'numeric', day: 'numeric' });
+                    const code = daily.weather_code[i];
+                    const icon = weatherIcons[code] || '🌡️';
+                    const desc = weatherDescriptions[code] || 'Sää tuntematon';
+                    const maxTemp = daily.temperature_2m_max[i];
+                    const minTemp = daily.temperature_2m_min[i];
+                    
+                    html += `
+                    <div class="weather-day">
+                        <h3>${dayName}<br>${dateStr}</h3>
+                        <div class="weather-icon">${icon}</div>
+                        <div class="weather-temp">${Math.round(maxTemp)}° / ${Math.round(minTemp)}°</div>
+                        <div class="weather-desc">${desc}</div>
+                    </div>`;
+                }
+                
+                weatherDiv.innerHTML = html;
+            } catch (error) {
+                console.error('Virhe säätietojen lataamisessa:', error);
+                document.getElementById('weather').innerHTML = '<div class="weather-loading">Säätietoja ei saatu ladattua</div>';
+            }
+        }
+        
+        window.addEventListener('load', loadWeather);
     </script>
 </head>
 <body>
@@ -148,6 +253,14 @@
             </table>
             <div class="update-info">
                 <p>Ilmoittautuneiden lista päivitetty: <span id="update-date">-</span></p>
+            </div>
+        </section>
+        
+        <section>
+            <h2>Sää</h2>
+            <p style="font-size: 14px; color: #7f8c8d; margin-bottom: 15px;">5 päivän sääennuste - Kymin Lentokenttä, Kotka</p>
+            <div class="weather-container" id="weather">
+                <div class="weather-loading">Ladataan säätietoja...</div>
             </div>
         </section>
     </div>
