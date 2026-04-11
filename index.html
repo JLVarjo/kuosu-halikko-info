@@ -162,6 +162,36 @@
             color: var(--muted);
             margin-bottom: 15px;
         }
+
+        .news-post {
+            background-color: var(--surface);
+            border-radius: 10px;
+            padding: 20px 24px;
+            margin-bottom: 16px;
+            box-shadow: 0 4px 12px var(--shadow);
+            border-left: 5px solid var(--accent);
+        }
+
+        .news-post-date {
+            font-size: 13px;
+            color: var(--muted);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            margin-bottom: 8px;
+        }
+
+        .news-post-title {
+            font-size: 18px;
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 10px;
+        }
+
+        .news-post p {
+            color: var(--text);
+            font-size: 15px;
+        }
     </style>
     <script>
         async function loadRegistrations() {
@@ -278,9 +308,19 @@
         </div>
         
         <section>
+            <h2>Uutiset</h2>
+            <div class="news-post">
+                <div class="news-post-date">11. huhtikuuta 2026</div>
+                <div class="news-post-title">KuoSu ei järjestä bussikuljetusta Jukolaan</div>
+                <p>Koska bussikuljetuksesta kiinnostuneita oli liian vähän, eikä sopivia yhteistyöseuroja löytynyt, sitä ei järjestetä tänä(kään) vuonna. Pahoittelut! Sopikaa kimppakyydeistä esim. KuoSun Jukola 2026 -whatsappissa. Junallakin pääsee Kotka-Jukolaan kätevästi.  </p>
+            </div>
+        </section>
+
+        <section>
             <h2>Jukola-vastaavat</h2>
-            <p>Juuso Lehtivarjo juuso.lehtivarjo@gmail.com 050-4662612 (Ilmoittautumiset & muutokset)</p>
-            <p>Olli Himanen (Logistiikka)</p>
+            <p>Ilmoittautumiset & muutokset: Juuso Lehtivarjo (juuso.lehtivarjo@gmail.com, 050-4662612)</p>
+            <br>
+            <p>Logistiikka: Olli Himanen</p>
         </section>
         
         <section>
