@@ -38,19 +38,32 @@
             padding: 20px;
         }
 
-        .top-logo {
-            display: block;
-            width: min(220px, 60vw);
-            height: auto;
-            margin: 8px auto 10px;
+        .hero-title {
+            display: grid;
+            grid-template-columns: auto 1fr auto;
+            align-items: center;
+            gap: 12px;
+            margin: 10px 0 18px;
+        }
+
+        .hero-logo {
+            height: clamp(56px, 16vw, 96px);
+            width: auto;
+            object-fit: contain;
         }
         
         h1 {
             text-align: center;
-            margin: 20px 0;
+            margin: 0;
             color: var(--primary);
             font-size: clamp(28px, 8vw, 48px);
             text-shadow: 0 1px 0 #ffffff;
+        }
+
+        @media (max-width: 480px) {
+            .hero-title {
+                gap: 8px;
+            }
         }
         
         h2 {
@@ -258,11 +271,14 @@
 </head>
 <body>
     <div class="container">
-        <img src="logo.jpg" alt="Kuopion Suunnistajat logo" class="top-logo">
-        <h1>KuoSun Jukola-info 2026</h1>
+        <div class="hero-title">
+            <img src="logo.jpg" alt="Kuopion Suunnistajat logo" class="hero-logo">
+            <h1>KuoSun Jukola-info 2026</h1>
+            <img src="jukola_logo.jpg" alt="Jukolan viesti logo" class="hero-logo">
+        </div>
         
         <section>
-            <h2>Jukola-Vastaavat</h2>
+            <h2>Jukola-vastaavat</h2>
             <p>Juuso Lehtivarjo juuso.lehtivarjo@gmail.com 050-4662612 (Ilmoittautumiset & muutokset)</p>
             <p>Olli Himanen (Logistiikka)</p>
         </section>
