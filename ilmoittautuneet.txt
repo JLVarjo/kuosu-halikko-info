@@ -39,5 +39,7 @@ Aino Kangasaho	Venlojen viestiin
 Noora Kurri	Venlojen viestiin
 Marko Sopo	Jukolan viestiin
 Antti Rusanen	Jukolan viestiin
+Minna Sopo	Venlojen viestiin
+Timo Nissinen	Jukolan viestiin
 
-13.4.2026 klo 19.17
+17.4.2026 klo 21.50
