@@ -60,6 +60,15 @@
             text-shadow: 0 1px 0 #ffffff;
         }
 
+        .day-counter {
+            text-align: center;
+            margin: 0 0 20px;
+            font-size: clamp(20px, 4vw, 15px);
+            font-weight: 700;
+            font-style: italic;
+            color: var(--primary-2);
+        }
+
         @media (max-width: 480px) {
             .hero-title {
                 gap: 8px;
@@ -292,10 +301,26 @@
                 document.getElementById('registrations').innerHTML = '<tr><td colspan="2" style="text-align: center; color: red;">Virhe tietojen lataamisessa</td></tr>';
             }
         }
+
+        function updateJukolaCountdown() {
+            const counter = document.getElementById('jukola-counter');
+            if (!counter) {
+                return;
+            }
+
+            const now = new Date();
+            const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+            const eventDate = new Date(2026, 5, 13);
+            const msPerDay = 24 * 60 * 60 * 1000;
+            const daysLeft = Math.max(0, Math.ceil((eventDate - today) / msPerDay));
+
+            counter.textContent = `- ${daysLeft} päivää Kotka-Jukolaan -`;
+        }
         
         // Load registrations when page loads
         window.addEventListener('load', loadRegistrations);
         window.addEventListener('load', loadNews);
+        window.addEventListener('load', updateJukolaCountdown);
         
         // Weather icons mapping
         const weatherIcons = {
@@ -309,9 +334,9 @@
         };
         
         const weatherDescriptions = {
-            0: 'Selkeä', 1: 'Lähinnä selkeä', 2: 'Osittain pilvinen', 3: 'Pilvinen',
+            0: 'Selkeää', 1: 'Lähinnä selkeää', 2: 'Osittain pilvistä', 3: 'Pilvistä',
             45: 'Sumua', 48: 'Kuuraa',
-            51: 'Heikkoa satetta', 53: 'Kohtalaista satetta', 55: 'Voimakasta satetta',
+            51: 'Heikkoa sadetta', 53: 'Kohtalaista sadetta', 55: 'Voimakasta sadetta',
             61: 'Heikkoa vesisadetta', 63: 'Kohtalaista vesisadetta', 65: 'Voimakasta vesisadetta',
             71: 'Heikkoa lumisadetta', 73: 'Kohtalaista lumisadetta', 75: 'Voimakasta lumisadetta',
             80: 'Heikkoja sadekuuroja', 81: 'Kohtalaisia sadekuuroja', 82: 'Voimakkaita sadekuuroja',
@@ -366,6 +391,7 @@
             <h1>KuoSun Jukola-info 2026</h1>
             <img src="jukola_logo.jpg" alt="Jukolan viesti logo" class="hero-logo">
         </div>
+        <p id="jukola-counter" class="day-counter">- päivää Kotka-Jukolaan</p>
         
         <section>
             <h2>Uutiset</h2>
