@@ -217,6 +217,23 @@
                 .replace(/'/g, '&#39;');
         }
 
+        function renderNewsInlineMarkdown(text) {
+            const markdownLinkPattern = /\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g;
+            let rendered = '';
+            let lastIndex = 0;
+            let match;
+
+            while ((match = markdownLinkPattern.exec(text)) !== null) {
+                const [fullMatch, label, url] = match;
+                rendered += escapeHtml(text.slice(lastIndex, match.index));
+                rendered += `<a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(label)}</a>`;
+                lastIndex = match.index + fullMatch.length;
+            }
+
+            rendered += escapeHtml(text.slice(lastIndex));
+            return rendered;
+        }
+
         function parseNewsMarkdown(markdown) {
             const blocks = markdown
                 .split(/\n(?=##\s+)/)
@@ -252,7 +269,7 @@
                 newsContainer.innerHTML = posts.map(post => {
                     const date = post.date ? `<div class="news-post-date">${escapeHtml(post.date)}</div>` : '';
                     const title = post.title ? `<div class="news-post-title">${escapeHtml(post.title)}</div>` : '';
-                    const body = post.body ? `<p>${escapeHtml(post.body)}</p>` : '';
+                    const body = post.body ? `<p>${renderNewsInlineMarkdown(post.body)}</p>` : '';
 
                     return `<article class="news-post">${date}${title}${body}</article>`;
                 }).join('');
