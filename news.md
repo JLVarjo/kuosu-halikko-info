@@ -1,3 +1,7 @@
+## 20. toukokuuta 2026
+### Joukkueet julkaistu
+Joukkuevalinnat on nyt tehty ja löytyvät alta. Osuustoiveet on pyritty ottamaan mahdollisuuksien mukaan huomioon. Voitte kuitenkin neuvotella juoksujärjestyksestä vielä joukkueiden sisällä. Ilmoittakaa mahdolliset muutokset Juusolle viimeistään 9.6. Samaten jos tulee poisjääntejä, niistäkin heti ilmoitus Juusolle niin katsotaan miten ratkaistaan.
+
 ## 20. huhtikuuta 2026
 ### Ilmoittautuminen joukkueisiin sulkeutunut
 Tänä vuonna lähdetään Jukolaan neljän Jukola- ja viiden Venlajoukkueen voimin! Konklaavi muodostaa joukkueet toukokuun alkupuolella, joten vielä ehtii käydä antamassa viimeiset näytöt kevään treeneissä ;)
