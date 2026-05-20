@@ -13,11 +13,11 @@
 |2.os 10,1 km|Anne-Marika Partanen|
 |3.os 6,1 km|Päivi Leppävuori |
 |4.os 9,1 km|Aino Kangasaho|
-## KuoSu 4 #392	
-|1.os 8 km|Sanna Multala|
-|2.os 10,1 km|Hanna Väätäinen |
-|3.os 6,1 km|Maija Lång |
-|4.os 9,1 km|Tiina Torvela|
+## KuoSu 4 #392	✅
+|1.os 8 km|Hanna Väätäinen|
+|2.os 10,1 km|Tiina Torvela|
+|3.os 6,1 km|Maija Lång|
+|4.os 9,1 km|Sanna Multala|
 ## KuoSu 5 #1018	
 |1.os 8 km|Tonja Johnson-Ferguson|
 |2.os 10,1 km|Minna Sopo|
@@ -27,4 +27,5 @@
 Varalla:
 -
 
-(päivitetty 20.5.2026 klo 8.49)
+✅ = juoksujärjestys vahvistettu
+Joukkueet päivitetty 20.5.2026 klo 9.15

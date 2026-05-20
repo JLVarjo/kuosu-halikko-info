@@ -34,9 +34,9 @@
 Varalla:
 Jani Saukko
 Liinu Vepsäläinen
-Tiina Torvela
 
-(päivitetty 20.5.2026 klo 8.49)
+✅ = juoksujärjestys vahvistettu
+Joukkueet päivitetty 20.5.2026 klo 9.12
 
 
 
