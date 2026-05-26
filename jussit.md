@@ -1,7 +1,7 @@
 ## KuoSu 1 #262
 |1.os 13 km|Antto-Iiro Suhonen|
 |2.os 11,1 km|Sampo Hyppölä|
-|3.os 14,8 km|Raimo Kariniemi |
+|3.os 14,8 km|Raimo Kariniemi|
 |4.os 7 km|Osku Hoikka|
 |5.os 7,9 km|Olli Himanen|
 |6.os 11,8 km|Kusti-Emil Juntunen|
@@ -23,7 +23,7 @@
 |6.os 11,8 km|Marko Sopo|
 |7.os 15,9 km|Matti Leskinen|
 ## KuoSu 4 #1321	
-|1.os 13 km|Olli Rytkönen |
+|1.os 13 km|Olli Rytkönen|
 |2.os 11,1 km|Tuomas Dahlström|
 |3.os 14,8 km|Arto Vesterbacka|
 |4.os 7 km|Jukka Tiitto|
