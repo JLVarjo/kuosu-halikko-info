@@ -1,7 +1,7 @@
-## KuoSu 1 #327	
-|1.os 8 km|Liinu Vepsäläinen|
-|2.os 10,1 km|Vilma Karppinen|
-|3.os 6,1 km|Emma Lång|
+## KuoSu 1 #327	✅
+|1.os 8 km|Emma Lång|
+|2.os 10,1 km|Liinu Vepsäläinen|
+|3.os 6,1 km|Vilma Karppinen|
 |4.os 9,1 km|Elina Turunen|
 ## KuoSu 2 #520	
 |1.os 8 km|Ella Malinen|
@@ -11,7 +11,7 @@
 ## KuoSu 3 #791	
 |1.os 8 km|Marita Malinen|
 |2.os 10,1 km|Anne-Marika Partanen|
-|3.os 6,1 km|Päivi Leppävuori |
+|3.os 6,1 km|Päivi Leppävuori|
 |4.os 9,1 km|Aino Kangasaho|
 ## KuoSu 4 #392	✅
 |1.os 8 km|Hanna Väätäinen|
@@ -28,4 +28,4 @@ Varalla:
 -
 
 ✅ = juoksujärjestys vahvistettu
-Joukkueet päivitetty 26.5.2026 klo 9.04
+Joukkueet päivitetty 26.5.2026 klo 20.46
