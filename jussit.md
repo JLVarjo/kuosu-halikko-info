@@ -1,12 +1,12 @@
-## KuoSu 1 #262
+## KuoSu 1 #262 ✅
 |1.os 13 km|Antto-Iiro Suhonen|
-|2.os 11,1 km|Sampo Hyppölä|
-|3.os 14,8 km|Raimo Kariniemi|
+|2.os 11,1 km|Juha Vartiainen|
+|3.os 14,8 km|Sampo Hyppölä|
 |4.os 7 km|Osku Hoikka|
-|5.os 7,9 km|Olli Himanen|
-|6.os 11,8 km|Kusti-Emil Juntunen|
-|7.os 15,9 km|Juha Vartiainen|
-## KuoSu 2 #1402	
+|5.os 7,9 km|Kusti-Emil Juntunen|
+|6.os 11,8 km|Olli Himanen|
+|7.os 15,9 km|Raimo Kariniemi|
+## KuoSu 2 #1402 ✅
 |1.os 13 km|Juuso Lehtivarjo|
 |2.os 11,1 km|Timo Nissinen|
 |3.os 14,8 km|Paavo Hiltunen|
@@ -36,7 +36,7 @@ Jani Saukko
 Liinu Vepsäläinen
 
 ✅ = juoksujärjestys vahvistettu
-Joukkueet päivitetty 20.5.2026 klo 9.12
+Joukkueet päivitetty 6.6.2026 klo 14.12
 
 
 
