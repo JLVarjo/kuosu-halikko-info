@@ -14,10 +14,10 @@
 |5.os 7,9 km|Elmeri Lång|
 |6.os 11,8 km|Marko Hoikka|
 |7.os 15,9 km|Tomi Kukkonen|
-## KuoSu 3 #983	
+## KuoSu 3 #983 ✅
 |1.os 13 km|Emma Lång|
-|2.os 11,1 km|Otso Hyvönen|
-|3.os 14,8 km|Jarkko Kirjavainen|
+|2.os 11,1 km|Jarkko Kirjavainen|
+|3.os 14,8 km|Otso Hyvönen|
 |4.os 7 km|Jussi Rytkönen|
 |5.os 7,9 km|Mikko Karjalainen|
 |6.os 11,8 km|Marko Sopo|
@@ -36,7 +36,7 @@ Jani Saukko
 Liinu Vepsäläinen
 
 ✅ = juoksujärjestys vahvistettu
-Joukkueet päivitetty 6.6.2026 klo 14.12
+Joukkueet päivitetty 8.6.2026 klo 18.35
 
 
 
