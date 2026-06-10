@@ -19,10 +19,10 @@
 |2.os 11,1 km|Jarkko Kirjavainen|
 |3.os 14,8 km|Otso Hyvönen|
 |4.os 7 km|Jussi Rytkönen|
-|5.os 7,9 km|Mikko Karjalainen|
+|5.os 7,9 km|Jani Saukko|
 |6.os 11,8 km|Marko Sopo|
 |7.os 15,9 km|Matti Leskinen|
-## KuoSu 4 #1321	
+## KuoSu 4 #1321 ✅
 |1.os 13 km|Olli Rytkönen|
 |2.os 11,1 km|Tuomas Dahlström|
 |3.os 14,8 km|Arto Vesterbacka|
@@ -32,11 +32,10 @@
 |7.os 15,9 km|Antti Rusanen|
 
 Varalla:
-Jani Saukko
 Liinu Vepsäläinen
 
 ✅ = juoksujärjestys vahvistettu
-Joukkueet päivitetty 8.6.2026 klo 18.35
+Joukkueet päivitetty 10.6.2026 klo 21.18
 
 
 
