@@ -1,3 +1,7 @@
+## 13. kesäkuuta 2026
+### Sitten mennään!
+Tsemppiä kaikille Venloille ja Jusseille! Ilmoittautukoon rastiliput (oikeine koodeineen) jokaisen eteen kiltisti ja jalkojen alta löytyköön pelkkää nopeaa mäntykangasta tai avokalliota. Ja muistakaa nauttia vaikkei näin joka hetki olisikaan!
+
 ## 8. kesäkuuta 2026
 ### Joukkuemateriaali-info
 Joukkuemateriaali, toisin sanoen numerolaput ja emit-tarkastusliuskat, löytyvät KuoSun seurateltalta tuulisuoja-alueen ruudusta 124, jonne logistiikkavastaava toimittaa ne viimeistään 1,5 h ennen Venlojen viestin starttia. Materiaalit on jaettu kahteen muovikassiin (Venlat ja Jukola). Muutamia pyyntöjä:
