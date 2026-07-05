@@ -217,7 +217,39 @@
             color: var(--text);
             font-size: 15px;
         }
+
+        .news-content {
+            line-height: 1.8;
+        }
+
+        .news-content h1, .news-content h2, .news-content h3 {
+            margin-top: 20px;
+            margin-bottom: 10px;
+            color: var(--primary);
+        }
+
+        .news-content p {
+            margin-bottom: 15px;
+            color: var(--text);
+        }
+
+        .news-content a {
+            color: var(--primary);
+            text-decoration: none;
+            border-bottom: 1px solid var(--primary);
+        }
+
+        .news-content a:hover {
+            color: var(--primary-2);
+            border-bottom-color: var(--primary-2);
+        }
+
+        .news-loading {
+            color: var(--muted);
+            padding: 12px 0;
+        }
     </style>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
         function escapeHtml(text) {
             return text
@@ -228,51 +260,29 @@
                 .replace(/'/g, '&#39;');
         }
 
-
-
-
-
-
-
-        async function loadRegistrations() {
+        async function loadNews() {
             try {
-                const response = await fetch('ilmoittautuneet.txt');
-                const text = await response.text();
-                const lines = text.split(/\r?\n/).map(line => line.trim()).filter(line => line);
+                const response = await fetch('uutiset.md');
+                const markdown = await response.text();
+                const newsContainer = document.getElementById('news-content');
                 
-                const tbody = document.getElementById('registrations');
-                const updateDateSpan = document.getElementById('update-date');
-                
-                let registrationLines = lines;
-                let updateFromFile = 'tuntematon';
-                if (lines.length > 0 && !lines[lines.length - 1].includes('\t')) {
-                    updateFromFile = lines[lines.length - 1];
-                    registrationLines = lines.slice(0, -1);
-                }
-                
-                if (registrationLines.length === 0) {
-                    tbody.innerHTML = '<tr><td colspan="2" style="text-align: center; padding: 20px;">Ei ilmoittautumisia vielä.</td></tr>';
-                } else {
-                    const registrations = registrationLines.map(line => {
-                        const [name, relay] = line.split('\t').map(s => s.trim());
-                        const lastName = name.split(' ').pop();
-                        return { name, relay, lastName };
-                    });
-                    
-                    // Sort by last name
-                    registrations.sort((a, b) => a.lastName.localeCompare(b.lastName, 'fi'));
-                    
-                    tbody.innerHTML = registrations.map(({name, relay}) => {
-                        return `<tr><td>${name || '-'}</td><td>${relay || '-'}</td></tr>`;
-                    }).join('');
+                if (!markdown.trim()) {
+                    newsContainer.innerHTML = '<p class="news-loading">Ei uutisia vielä.</p>';
+                    return;
                 }
 
-                updateDateSpan.textContent = updateFromFile;
+                // Parse markdown to HTML using marked.js
+                const html = marked.parse(markdown);
+                newsContainer.innerHTML = html;
             } catch (error) {
-                console.error('Virhe ladattaessa ilmoittautumisia:', error);
-                document.getElementById('registrations').innerHTML = '<tr><td colspan="2" style="text-align: center; color: red;">Virhe tietojen lataamisessa</td></tr>';
+                console.error('Virhe uutisten lataamisessa:', error);
+                const newsContainer = document.getElementById('news-content');
+                if (newsContainer) {
+                    newsContainer.innerHTML = '<p class="news-loading">Uutisia ei saatu ladattua.</p>';
+                }
             }
         }
+
 
         function updateJukolaCountdown() {
             const counter = document.getElementById('jukola-counter');
@@ -289,8 +299,6 @@
             counter.textContent = `- ${daysLeft} päivää Halikkoviestiïn -`;
         }
         
-        // Load registrations when page loads
-        window.addEventListener('load', loadRegistrations);
         window.addEventListener('load', updateJukolaCountdown);
         
         // Weather icons mapping
@@ -352,6 +360,7 @@
             }
         }
         
+        window.addEventListener('load', loadNews);
         window.addEventListener('load', loadWeather);
     </script>
 </head>
@@ -364,8 +373,13 @@
         </div>
         <p id="jukola-counter" class="day-counter">- päivää Halikkoviestiin</p>
         
+        <section>
+            <h2>Uutiset</h2>
+            <div id="news-content" class="news-content">
+                <p class="news-loading">Ladataan uutisia...</p>
+            </div>
+        </section>
 
-        
         <section>
             <h2>Sää</h2>
             <p class="section-note">5 päivän sääennuste - Salo</p>
