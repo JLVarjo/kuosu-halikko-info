@@ -260,27 +260,50 @@
                 .replace(/'/g, '&#39;');
         }
 
-        async function loadNews() {
+        async function loadMarkdownSection(filePath, elementId, emptyMessage, errorMessage, errorLabel) {
+            const container = document.getElementById(elementId);
+            if (!container) {
+                return;
+            }
+
             try {
-                const response = await fetch('uutiset.md');
+                const response = await fetch(filePath);
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+
                 const markdown = await response.text();
-                const newsContainer = document.getElementById('news-content');
-                
+
                 if (!markdown.trim()) {
-                    newsContainer.innerHTML = '<p class="news-loading">Ei uutisia vielä.</p>';
+                    container.innerHTML = `<p class="news-loading">${escapeHtml(emptyMessage)}</p>`;
                     return;
                 }
 
-                // Parse markdown to HTML using marked.js
-                const html = marked.parse(markdown);
-                newsContainer.innerHTML = html;
+                container.innerHTML = marked.parse(markdown);
             } catch (error) {
-                console.error('Virhe uutisten lataamisessa:', error);
-                const newsContainer = document.getElementById('news-content');
-                if (newsContainer) {
-                    newsContainer.innerHTML = '<p class="news-loading">Uutisia ei saatu ladattua.</p>';
-                }
+                console.error(errorLabel, error);
+                container.innerHTML = `<p class="news-loading">${escapeHtml(errorMessage)}</p>`;
             }
+        }
+
+        function loadNews() {
+            return loadMarkdownSection(
+                'uutiset.md',
+                'news-content',
+                'Ei uutisia vielä.',
+                'Uutisia ei saatu ladattua.',
+                'Virhe uutisten lataamisessa:'
+            );
+        }
+
+        function loadTravelPlan() {
+            return loadMarkdownSection(
+                'masu.md',
+                'travel-plan-content',
+                'Matkasuunnitelmaa ei ole vielä lisätty.',
+                'Matkasuunnitelmaa ei saatu ladattua.',
+                'Virhe matkasuunnitelman lataamisessa:'
+            );
         }
 
 
@@ -362,6 +385,7 @@
         
         window.addEventListener('load', loadNews);
         window.addEventListener('load', loadWeather);
+        window.addEventListener('load', loadTravelPlan);
     </script>
 </head>
 <body>
@@ -377,6 +401,13 @@
             <h2>Uutiset</h2>
             <div id="news-content" class="news-content">
                 <p class="news-loading">Ladataan uutisia...</p>
+            </div>
+        </section>
+
+        <section>
+            <h2>Matkasuunnitelma</h2>
+            <div id="travel-plan-content" class="news-content">
+                <p class="news-loading">Ladataan matkasuunnitelmaa...</p>
             </div>
         </section>
 

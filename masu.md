@@ -1,0 +1,1 @@
+Matkasuunnitelma päivittyy tähän myöhemmin.
