@@ -1,3 +1,6 @@
+### 17.7.2026
+Ilmoittautuminen avattu! [Ilmoittautumislomakkeeseen tästä.](https://forms.gle/nzcF5SejzocLUSj78)
+
 ### 16.7.2026
 Matkasuunnitelmaa on päivitetty! Saat pian jotakin kanavaa pitkin linkin kyselylomakkeeseen, jossa pyydämme ilmaisemaan kiinnostuksesi viestiin osallistumisesta. Kyselyn perusteella päätetään, voidaanko matka järjestää. 
 
