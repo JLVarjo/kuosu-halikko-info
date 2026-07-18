@@ -1,12 +1,12 @@
 ### Ajankohta
-Alkaa - perjantaina 25.9. iltapäivällä
+Alkaa - perjantaina 25.9. noin klo 15
 
 Päättyy - lauantaina 26.9. yöllä
 
 ### Matkan kulku
 25.9.2026
-- klo --:-- Bussin lähtö Kuopiosta (pysäkit?)
-- klo --:-- saapuminen majoitukseen Kaidanojan kartanolle Pöytyälle
+- noin klo 15:00 Bussin lähtö Kuopiosta (pysäkit?)
+- noin klo 21:00 saapuminen majoitukseen Kaidanojan kartanolle Pöytyälle
 
 26.9.2026
 - klo --:-- Bussi lähtee majoituksesta kisapaikalle
