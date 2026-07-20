@@ -306,6 +306,16 @@
             );
         }
 
+        function loadRegistered() {
+            return loadMarkdownSection(
+                'ilmot.md',
+                'registered-content',
+                'Ilmoittautuneita ei ole vielä lisätty.',
+                'Ilmoittautuneita ei saatu ladattua.',
+                'Virhe ilmoittautuneiden lataamisessa:'
+            );
+        }
+
 
         function updateJukolaCountdown() {
             const counter = document.getElementById('jukola-counter');
@@ -386,6 +396,7 @@
         window.addEventListener('load', loadNews);
         window.addEventListener('load', loadWeather);
         window.addEventListener('load', loadTravelPlan);
+        window.addEventListener('load', loadRegistered);
     </script>
 </head>
 <body>
@@ -408,6 +419,13 @@
             <h2>Matkasuunnitelma</h2>
             <div id="travel-plan-content" class="news-content">
                 <p class="news-loading">Ladataan matkasuunnitelmaa...</p>
+            </div>
+        </section>
+
+        <section>
+            <h2>Ilmoittautuneet</h2>
+            <div id="registered-content" class="news-content">
+                <p class="news-loading">Ladataan ilmoittautuneita...</p>
             </div>
         </section>
 
