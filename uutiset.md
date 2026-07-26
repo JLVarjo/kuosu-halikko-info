@@ -1,3 +1,6 @@
+### 26.7.2026
+Ilmoittautumisen deadline on päätetty ja se on 14.8. Laittakaahan siis rohkeasti nimiä listaan! Tästä reissusta selviää kyllä hienosti ihan pelkällä kuntosuunnistuskokemuksellakin.
+
 ### 17.7.2026
 Ilmoittautuminen avattu! [Ilmoittautumislomakkeeseen tästä.](https://forms.gle/nzcF5SejzocLUSj78)
 
