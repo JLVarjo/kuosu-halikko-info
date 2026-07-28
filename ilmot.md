@@ -6,9 +6,9 @@
 |Tiina S|Nooa K|
 |Pälvi A|Marko H|
 |Olli R|Markku K|
-|Jukka A|  |
-|  |  |
-|  |  |
+|Jukka A|Jorma J|
+|Liinu V|Tiina T|
+|Elina T|  |
 |  |  |
 |  |  |
 |  |  |
@@ -16,10 +16,9 @@
 |  |  |
 |  |  |
 
-Varalla: Tiina T
 
-13/30 ilmoittautunutta.
-Ilmoittautuneet päivitetty 26.7.2026 klo 16:50
+17/30 ilmoittautunutta.
+Ilmoittautuneet päivitetty 28.7.2026 klo 8:59
 
 
 
