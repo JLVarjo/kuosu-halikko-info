@@ -8,8 +8,8 @@
 |Olli R|Markku K|
 |Jukka A|Jorma J|
 |Liinu V|Tiina T|
-|Elina T|  |
-|  |  |
+|Elina T|Marita M|
+|Sulo H|  |
 |  |  |
 |  |  |
 |  |  |
@@ -17,8 +17,8 @@
 |  |  |
 
 
-17/30 ilmoittautunutta.
-Ilmoittautuneet päivitetty 28.7.2026 klo 8:59
+19/30 ilmoittautunutta.
+Ilmoittautuneet päivitetty 3.8.2026 klo 12:15
 
 
 

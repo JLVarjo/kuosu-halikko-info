@@ -1,3 +1,6 @@
+### 3.8.2026
+Lähtöaikaa myöhäistetty puoli tuntia osallistujien toiveesta. Lähdemme siis matkaan 15:30 Puijon pesiskentän parkista.
+
 ### 26.7.2026
 Ilmoittautumisen deadline on päätetty ja se on 14.8. Laittakaahan siis rohkeasti nimiä listaan! Tästä reissusta selviää kyllä hienosti ihan pelkällä kuntosuunnistuskokemuksellakin.
 
