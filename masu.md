@@ -1,21 +1,24 @@
 ### Ajankohta
-Alkaa - perjantaina 25.9. klo 15:30
+Alkaa: perjantaina 25.9. klo 15:30
 
-Päättyy - lauantaina 26.9. yöllä
+Päättyy: lauantaina 26.9. yöllä
 
 ### Matkan kulku
-25.9.2026
-- klo 15:30 Bussin lähtö Kuopiosta Puijon Pesäpallostadionin parkista (muut pysäkit?)
-- noin klo 21:30 saapuminen majoitukseen Kaidanojan kartanolle Pöytyälle
 
-26.9.2026
-- klo --:-- Bussi lähtee majoituksesta kisapaikalle
-- klo --:-- saapuminen Saloon kisakeskukseen
-- klo 10:45 Lasten Halikko-juoksun yhteislähtö
-- klo 11:00 Halikko-viestin yhteislähtö
-- klo 14:45 Voittaja maalissa
-- klo 15:30 arvioitu uusintalähtö (osuuksille jotka eivät ole vielä juosseet)
-- klo --:-- Bussi lähtee kotia kohti kun kaikki kuljetuksessa olevat ovat maalissa
+#### 25.9.2026
+
+- **15:30** Bussin lähtö Kuopiosta Puijon Pesäpallostadionin parkista (muut pysäkit?)
+- **noin 21:30** Saapuminen majoitukseen Kaidanojan kartanolle Pöytyälle
+    
+#### 26.9.2026
+
+- **--:--** Bussi lähtee majoituksesta kisapaikalle
+- **--:--** Saapuminen Saloon kisakeskukseen
+- **10:45** Lasten Halikko-juoksun yhteislähtö
+- **11:00** Halikko-viestin yhteislähtö
+- **14:45** Voittaja maalissa
+- **15:30** Arvioitu uusintalähtö (osuuksille jotka eivät ole vielä juosseet)
+- **--:--** Bussi lähtee kotia kohti kun kaikki kuljetuksessa olevat ovat maalissa
 
 Kuljetuksen aikana pidetään sopivat ruoka- ja vessatauot.
 
