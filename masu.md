@@ -29,7 +29,7 @@ Varaus on tehty 30 henkilölle leirimajoitukseen. Huoneiden jaot sovitaan myöhe
 
 ### Kustannukset
 - Seura tarjoaa viestiosallistumisen ja Lasten Halikko-juoksun osallistumisen.
-- Seura järjestää bussikuljetuksen, josta voi olla pieni omavastuuosuus, ei välttämättä (Ennakkotieto, hallitus kokoontuu elokuussa). 
+- Seura järjestää bussikuljetuksen, omavastuu jäsenille 20e (muille 40e) 
 - Edullinen leirimajoitus jonka osallistuja maksaa itse, myös parempia huoneluokkia tarjolla kts. majoitusliikkeen sivut, omakustanteisesti. 
 - Ruoat osallistujat maksavat itse.
 
