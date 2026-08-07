@@ -9,7 +9,7 @@
 |Jukka A|Jorma J|
 |Liinu V|Tiina T|
 |Elina T|Marita M|
-|Sulo H|  |
+|Siiri H|  |
 |  |  |
 |  |  |
 |  |  |
@@ -18,7 +18,7 @@
 
 
 19/30 ilmoittautunutta.
-Ilmoittautuneet päivitetty 3.8.2026 klo 12:15
+Ilmoittautuneet päivitetty 7.8.2026 klo 15:15
 
 
 
