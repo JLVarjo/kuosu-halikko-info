@@ -9,16 +9,16 @@
 |Jukka A|Jorma J|
 |Liinu V|Tiina T|
 |Elina T|Marita M|
-|Siiri H|  |
-|  |  |
-|  |  |
+|Siiri H|Sinikka K|
+|Otso H|Sakari H|
+|Anna O|  |
 |  |  |
 |  |  |
 |  |  |
 
 
-19/30 ilmoittautunutta.
-Ilmoittautuneet päivitetty 7.8.2026 klo 15:15
+23/30 ilmoittautunutta.
+Ilmoittautuneet päivitetty 10.8.2026 klo 20:39
 
 
 
