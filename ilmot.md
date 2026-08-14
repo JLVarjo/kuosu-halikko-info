@@ -11,14 +11,14 @@
 |Elina T|Marita M|
 |Siiri H|Sinikka K|
 |Otso H|Sakari H|
-|Anna O|  |
-|  |  |
+|Anna O|Sini K|
+|Timo N|Eetu N|
 |  |  |
 |  |  |
 
 
-23/30 ilmoittautunutta.
-Ilmoittautuneet päivitetty 10.8.2026 klo 20:39
+26/30 ilmoittautunutta.
+Ilmoittautuneet päivitetty 14.8.2026 klo 22:19
 
 
 

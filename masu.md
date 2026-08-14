@@ -10,6 +10,7 @@ Päättyy: lauantaina 26.9. yöllä
 - **15:30** Bussin lähtö Kuopiosta Puijon Pesäpallostadionin parkista (muut pysäkit?)
 - **noin 21:30** Saapuminen majoitukseen Kaidanojan kartanolle Pöytyälle
     
+    
 #### 26.9.2026
 
 - **--:--** Bussi lähtee majoituksesta kisapaikalle

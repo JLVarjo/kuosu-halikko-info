@@ -1,3 +1,6 @@
+### 14.8.2026
+Ilmoittautuneita on nyt koossa mukavat 26, joten uskallamme todeta että reissu tulee toteutumaan kahden joukkueen voimin! Ilmoittautuneille lähetetään infosähköpostia lähipäivinä. Muutama suunnistaja siis edelleen vielä puuttuu, joten ilmoittautumislomake jätetään toistaiseksi auki. Myös varahenkilöitä otetaan mieluusti listalle joukkueiden täytyttyä. Varasuunnistajat voivat myös lähteä reissuun mukaan, Halikossa on tarjolla kuntosuunnistusta joukkueiden ulkopuolelle jääneille.
+
 ### 3.8.2026
 Lähtöaikaa myöhäistetty puoli tuntia osallistujien toiveesta. Lähdemme siis matkaan 15:30 Puijon pesiskentän parkista.
 
