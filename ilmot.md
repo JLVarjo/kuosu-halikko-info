@@ -13,12 +13,12 @@
 |Otso H|Sakari H|
 |Anna O|Sini K|
 |Timo N|Eetu N|
-|  |  |
+|Tuomas D|Sanna M|
 |  |  |
 
 
-26/30 ilmoittautunutta.
-Ilmoittautuneet päivitetty 14.8.2026 klo 22:19
+28/30 ilmoittautunutta.
+Ilmoittautuneet päivitetty 16.8.2026 klo 15:43
 
 
 
