@@ -9,17 +9,18 @@ Päättyy: lauantaina 26.9. yöllä
 
 - **15:30** Bussin lähtö Kuopiosta Puijon Pesäpallostadionin parkista (muut pysäkit?)
 - **noin 21:30** Saapuminen majoitukseen Kaidanojan kartanolle Pöytyälle
-    
+- 
     
 #### 26.9.2026
 
-- **--:--** Bussi lähtee majoituksesta kisapaikalle
-- **--:--** Saapuminen Saloon kisakeskukseen
+- **7:00-8:00** Aamupala Kaidanojan kartanolla
+- **8:30** Bussi lähtee majoituksesta kisapaikalle
+- **9:45** Saapuminen Saloon kisakeskukseen
 - **10:45** Lasten Halikko-juoksun yhteislähtö
 - **11:00** Halikko-viestin yhteislähtö
 - **14:45** Voittaja maalissa
-- **15:30** Arvioitu uusintalähtö (osuuksille jotka eivät ole vielä juosseet)
-- **--:--** Bussi lähtee kotia kohti kun kaikki kuljetuksessa olevat ovat maalissa
+- **15:30** Arvioitu uusintalähtö (osuuksille, jotka eivät ole vielä ehtineet vaihtaa)
+- **noin 17:00** Bussi lähtee kotia kohti, kun kaikki kuljetuksessa olevat ovat maalissa ja käyneet pesulla
 
 Kuljetuksen aikana pidetään sopivat ruoka- ja vessatauot.
 
@@ -35,7 +36,7 @@ Varaus on tehty 30 henkilölle leirimajoitukseen. Huoneiden jaot sovitaan myöhe
     - Tänä vuonna 21v täyttäneet/täyttävät ja sitä vanhemmat jäsenet 20e
     - Ei-jäsenet iästä riippumatta 40e
 - Bussiomavastuun [maksulinkki](https://www.suomisport.fi/events/c7a83430-a8f5-4e4c-9a38-c6340bfd77db) 
-- Edullinen leirimajoitus jonka osallistuja maksaa itse, oletuksena 4h huoneissa 15e, myös parempia huoneluokkia tarjolla kts. majoitusliikkeen sivut, omakustanteisesti. 
+- Leirimajoitus 4h huoneissa 15e, osallistuja maksaa itse. Peitto ja tyyny +3e, aamupala +12e. [Lisäpalvelukyselyyn tästä.](https://forms.gle/SM3wTt3XZEgjcu1b7)
 - Ruoat osallistujat maksavat itse.
 
 
