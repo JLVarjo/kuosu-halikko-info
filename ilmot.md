@@ -14,11 +14,11 @@
 |Anna O|Sini K|
 |Timo N|Eetu N|
 |Tuomas D|Sanna M|
-|Terhi K|  |
+|Terhi K|Nadja H|
 
 
-29/30 ilmoittautunutta.
-Ilmoittautuneet päivitetty 18.8.2026 klo 16:31
+30/30 ilmoittautunutta.
+Ilmoittautuneet päivitetty 26.8.2026 klo 11:06
 
 
 
