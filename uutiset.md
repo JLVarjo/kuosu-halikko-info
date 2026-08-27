@@ -1,3 +1,6 @@
+### 27.8.2026
+Joukkueet julkaistu! Toivomuksia pyritty täyttämään mahdollisuuksien mukaan. Jos koet kuitenkin olevasi aivan väärällä osuudella, laita Juusolle viestiä niin katsotaan voiko asialle tehdä jotain...
+
 ### 16.8.2026 (edit: 21.8.2026)
 Majoituksesta ja huonejaosta infoa: majoitus on [Kaidanojan Kartanossa](https://www.kulhuanpaakari.fi/kaidanojan-kartano/majoitus) neljän hengen huoneissa omilla vuodevaatteilla, jolloin hinta on 15e/henkilö. Majoitus maksetaan itse. Otamme vastaan huonejakoa varten valmiita porukoita ja loput jaamme sitten huoneisiin itse. Huoneporukoita voi jo lähettää majoitusvastaava Tiinalle sähköpostiin ttorvela@gmail.com. Huonejako vahvistetaan sitten kun tarkka majoittujien määrä on tiedossa. Peiton ja tyynyn vuokraaminen majoittajalta on myös mahdollista (+3e) ja lämmin aamupala on tarjolla 12e hintaan. Ilmoita halukkuutesi näihin lisäpalveluihin [tällä lomakkeella.](https://forms.gle/SM3wTt3XZEgjcu1b7)
 
