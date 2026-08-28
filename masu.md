@@ -27,10 +27,8 @@ Kuljetuksen aikana pidetään sopivat ruoka- ja vessatauot.
 ### Majoituspaikka
 https://www.kulhuanpaakari.fi/kaidanojan-kartano/leirimajoitus
 
-Varaus on tehty 30 henkilölle leirimajoitukseen. Huoneiden jaot sovitaan myöhemmin osallistujien toiveiden mukaan.
-
 ### Kustannukset
-- Seura tarjoaa viestiosallistumisen ja Lasten Halikko-juoksun osallistumisen.
+- Seura tarjoaa viestiosallistumisen.
 - Seura järjestää bussikuljetuksen, omavastuuhinnat:
     - Alle 21v jäsenet ilmaiseksi
     - Tänä vuonna 21v täyttäneet/täyttävät ja sitä vanhemmat jäsenet 20e
