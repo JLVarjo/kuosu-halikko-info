@@ -39,4 +39,21 @@ Varaus on tehty 30 henkilölle leirimajoitukseen. Huoneiden jaot sovitaan myöhe
 - Leirimajoitus 4h huoneissa 15e, osallistuja maksaa itse. Peitto ja tyyny +3e, aamupala +12e. [Lisäpalvelukyselyyn tästä.](https://forms.gle/SM3wTt3XZEgjcu1b7)
 - Ruoat osallistujat maksavat itse.
 
+### Huonejako
+
+| Huone 1 | Huone 2 | Huone 3 | Huone 4 |
+|---------|---------|---------|---------|
+|Olli R  |Ella M    | Sinikka K | Liinu V |
+|Pälvi A |Marita M  | Anna O    | Siiri H |
+|Jussi R |Sanna M   | Sini K    | Elina T |
+|Toivo R |Tiina S   | Terhi K   | Nadja H |
+
+| Huone 5 | Huone 6 | Huone 7 | Huone 8 |
+|---------|---------|---------|---------|
+|Markku K |Mikko K  | Eetu N  |TiRu     |
+|Jorma J  |Juuso L  | Timo N  |Sakari H |
+|Tuomas D |Marko H  | Nooa K  |Otso H   |
+|         |Osku H   | Jukka A |         |
+
+
 
