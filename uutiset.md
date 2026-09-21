@@ -1,3 +1,6 @@
+### 21.9.2026
+Majoituksen voi nyt käydä maksamassa [SuomiSportin kautta](https://www.suomisport.fi/events/2f3db942-03fa-4825-9932-37ce512d732a). Valitkaa lisäpalveluista (aamupala/peitto) vain ne mitkä olette aiemmin kyselyssä ilmoittaneet. Maksulinkki on auki to 24.9 klo 23.59 saakka.
+
 ### 27.8.2026
 Joukkueet julkaistu! Toivomuksia pyritty täyttämään mahdollisuuksien mukaan. Jos koet kuitenkin olevasi aivan väärällä osuudella, laita Juusolle viestiä niin katsotaan voiko asialle tehdä jotain...
 

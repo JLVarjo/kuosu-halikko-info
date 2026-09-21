@@ -35,7 +35,7 @@ https://www.kulhuanpaakari.fi/kaidanojan-kartano/leirimajoitus
     - Tänä vuonna 21v täyttäneet/täyttävät ja sitä vanhemmat jäsenet 20e
     - Ei-jäsenet iästä riippumatta 40e
 - Bussiomavastuun [maksulinkki](https://www.suomisport.fi/events/c7a83430-a8f5-4e4c-9a38-c6340bfd77db) 
-- Leirimajoitus 4h huoneissa 15e, osallistuja maksaa itse. Peitto ja tyyny +3e, aamupala +12e.
+- Leirimajoitus 4h huoneissa 15e, osallistuja maksaa itse. Peitto ja tyyny +3e, aamupala +10e. [Majoituksen maksulinkki](https://www.suomisport.fi/events/2f3db942-03fa-4825-9932-37ce512d732a)
 - Ruoat osallistujat maksavat itse.
 
 ### Huonejako
