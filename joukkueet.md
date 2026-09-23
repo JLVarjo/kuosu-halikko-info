@@ -1,4 +1,4 @@
-### Kilpasarjan joukkue
+### Kilpasarjan joukkue - Kuopion Suunnistajat 1 #38
 
 | **Osuus** | **Nimi** | **Nimi** | **Nimi** |
 |-------|------|-------|------|
@@ -10,7 +10,7 @@
 |**14.** 6,5 km||Timo N||
 |**15.** 5,7 km||Pälvi A||
 
-### Avoimen sarjan joukkue
+### Avoimen sarjan joukkue - Kuopion Suunnistajat 2 #512
 
 | **Osuus** | **Nimi** | **Nimi** | **Nimi** |
 |-------|------|-------|------|
