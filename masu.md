@@ -7,7 +7,9 @@ Päättyy: lauantaina 26.9. yöllä
 
 #### 25.9.2026
 
-- **15:30** Bussin lähtö Kuopiosta Puijon Pesäpallostadionin parkista (muut pysäkit?)
+- **15:30** Bussin lähtö Kuopiosta Citymarket Päivärannan parkkipaikalta (pohjoispäässä rajoittamaton pysäköinti)
+- **15:40** Tarvittaessa vaihtoehtoinen lähtö Pitkälahden ABC:lta (ABC:llä myös rajoittamattomia parkkiruutuja)
+- **17:30** Tauko Vaajakosken ABC (pidempi ruokatauko)
 - **noin 21:30** Saapuminen majoitukseen Kaidanojan kartanolle Pöytyälle
 - **noin 22:00** Iltajumppa
 - 

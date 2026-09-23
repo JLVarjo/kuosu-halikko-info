@@ -1,3 +1,6 @@
+### 23.9.2026
+Huom!! Kuljetuksen lähtöpaikka muuttunut Puijon pesäpallokentän pysäköintirajoitusten vuoksi. Ensisijainen lähtöpaikka Citymarket Päivärannan parkki ja tarvittaessa ABC Pitkälahti. Kts. matkasuunnitelma.
+
 ### 21.9.2026
 Majoituksen voi nyt käydä maksamassa [SuomiSportin kautta](https://www.suomisport.fi/events/2f3db942-03fa-4825-9932-37ce512d732a). Valitkaa lisäpalveluista (aamupala/peitto) vain ne mitkä olette aiemmin kyselyssä ilmoittaneet. Maksulinkki on auki to 24.9 klo 23.59 saakka.
 
