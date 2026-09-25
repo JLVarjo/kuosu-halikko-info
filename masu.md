@@ -8,10 +8,11 @@ Päättyy: lauantaina 26.9. yöllä
 #### 25.9.2026
 
 - **15:30** Bussin lähtö Kuopiosta Citymarket Päivärannan parkkipaikalta (pohjoispäässä rajoittamaton pysäköinti)
-- **15:40** Tarvittaessa vaihtoehtoinen lähtö Pitkälahden ABC:lta (ABC:llä myös rajoittamattomia parkkiruutuja)
-- **17:30** Tauko Vaajakosken ABC (pidempi ruokatauko)
+- **15:40** Lähtö Pitkälahden ABC:lta (ABC:llä myös rajoittamattomia parkkiruutuja)
+- **17:30** Tauko Vaajakosken ABC (pidempi ruokatauko, noutopöytä auki)
 - **noin 21:30** Saapuminen majoitukseen Kaidanojan kartanolle Pöytyälle
-- **noin 22:00** Iltajumppa
+- **21:40** Lentopallon EM-välierä Suomi-Ranska TV-huoneessa
+- **noin 22:00** Iltajumppa niille jotka eivät katso lentopalloa
 - 
     
 #### 26.9.2026
@@ -22,8 +23,10 @@ Päättyy: lauantaina 26.9. yöllä
 - **10:45** Lasten Halikko-juoksun yhteislähtö
 - **11:00** Halikko-viestin yhteislähtö
 - **14:45** Voittaja maalissa
+- **15:20** Vaihto sulkeutuu
 - **15:30** Arvioitu uusintalähtö (osuuksille, jotka eivät ole vielä ehtineet vaihtaa)
 - **noin 17:00** Bussi lähtee kotia kohti, kun kaikki kuljetuksessa olevat ovat maalissa ja käyneet halutessaan pesulla
+- **noin 23:00-00:00** Saapuminen Kuopioon, Pitkälahden ABC ja Citymarket Päiväranta
 
 Kuljetuksen aikana pidetään sopivat ruoka- ja vessatauot.
 

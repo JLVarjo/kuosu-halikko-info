@@ -14,7 +14,7 @@ Majoituksesta ja huonejaosta infoa: majoitus on [Kaidanojan Kartanossa](https://
 Ilmoittautuneita on nyt koossa mukavat 26, joten uskallamme todeta että reissu tulee toteutumaan kahden joukkueen voimin! Ilmoittautuneille lähetetään infosähköpostia lähipäivinä. Muutama suunnistaja siis edelleen vielä puuttuu, joten ilmoittautumislomake jätetään toistaiseksi auki. Myös varahenkilöitä otetaan mieluusti listalle joukkueiden täytyttyä. Varasuunnistajat voivat myös lähteä reissuun mukaan, Halikossa on tarjolla kuntosuunnistusta joukkueiden ulkopuolelle jääneille.
 
 ### 3.8.2026
-Lähtöaikaa myöhäistetty puoli tuntia osallistujien toiveesta. Lähdemme siis matkaan 15:30 Puijon pesiskentän parkista.
+Lähtöaikaa myöhäistetty puoli tuntia osallistujien toiveesta. Lähdemme siis matkaan 15:30.
 
 ### 26.7.2026
 Ilmoittautumisen deadline on päätetty ja se on 14.8. Laittakaahan siis rohkeasti nimiä listaan! Tästä reissusta selviää kyllä hienosti ihan pelkällä kuntosuunnistuskokemuksellakin.
