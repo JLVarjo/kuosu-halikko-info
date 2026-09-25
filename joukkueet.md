@@ -22,10 +22,7 @@
 |**14.** 6,5 km||Juuso L||
 |**15.** 5,7 km||Tiina T||
 
-Varalla:
--
 
-Joukkueet päivitetty 27.8.2026 klo 17:18
 
 
 
