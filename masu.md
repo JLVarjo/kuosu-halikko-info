@@ -54,7 +54,7 @@ https://www.kulhuanpaakari.fi/kaidanojan-kartano/leirimajoitus
 
 | Huone 5 | Huone 6 | Huone 7 | Huone 8 |
 |---------|---------|---------|---------|
-|Markku K |Mikko K  |Eetu N  |TiRu     |
+|Markku K |Mikko K  |Eetu N  |      |
 |Jorma J  |Juuso L  |Timo N  |Sakari H |
 |Tuomas D |Marko H  |Nooa K  |Otso H   |
 |         |Osku H   |Jukka A |         |
